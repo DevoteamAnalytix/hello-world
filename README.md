@@ -1,2 +1,4 @@
 # hello-world
-b-ware of the DAU
+
+Es ist ein paar Wimpernschläge her, da gab es etwas wie "Visual SourceSafe"
+Jetzt hat Gitte das Sagen....
